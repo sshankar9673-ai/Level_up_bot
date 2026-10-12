@@ -6,3 +6,4 @@ protobuf
 google-api-python-client
 requests
 flask
+aiohttp
